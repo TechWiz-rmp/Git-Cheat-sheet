@@ -1,5 +1,5 @@
 # GIT CHEAT SHEET 📝
-**© SYYNCC**
+
 > Git is a version control system used to track changes in computer files and coordinate work on those files among multiple people. It is commonly used for software development, but can be used to track changes in any set of files. It allows users to easily keep track of modifications, revert to previous versions, and collaborate with others.
 > Here is the cheat sheet consisting of some key commands
 
@@ -88,10 +88,11 @@ To clear history, reset amd rewrite:
 
 ---
 
-**© SYYNCC**
+**© SYYNCC 2023**
 
 Follow our Insta Handles for more event updates:
 
 > [TechWiz](https://www.instagram.com/techwiz_rmp/)
 
 > [SlugNPlug](https://www.instagram.com/slugnplug)
+
