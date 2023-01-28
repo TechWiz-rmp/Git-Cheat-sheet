@@ -7,7 +7,7 @@
 
 ## 1. Git Installation
 
-> 🔗 **[Download Git for all Platforms]("https://git-scm.com/downloads)**
+> 🔗 **[Download Git for all Platforms](https://git-scm.com/downloads)**
 
 ---
 
@@ -90,8 +90,8 @@ To clear history, reset amd rewrite:
 
 **© SYYNCC**
 
-Follow our Insta Handles for more updates:
+Follow our Insta Handles for more event updates:
 
-> [TechWiz]("https://www.instagram.com/techwiz_rmp/)
+> [TechWiz](https://www.instagram.com/techwiz_rmp/)
 
-> [SlugNPlug]("https://www.instagram.com/slugnplug/")
+> [SlugNPlug](https://www.instagram.com/slugnplug)
