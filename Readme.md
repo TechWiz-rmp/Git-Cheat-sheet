@@ -89,3 +89,9 @@ To clear history, reset amd rewrite:
 ---
 
 **© SYYNCC**
+
+Follow our Insta Handles for more updates:
+
+> [TechWiz]("https://www.instagram.com/techwiz_rmp/)
+
+> [SlugNPlug]("https://www.instagram.com/slugnplug/")
