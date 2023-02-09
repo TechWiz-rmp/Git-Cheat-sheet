@@ -94,5 +94,3 @@ Follow our Insta Handles for more event updates:
 
 > [TechWiz](https://www.instagram.com/techwiz_rmp/)
 
-> [SlugNPlug](https://www.instagram.com/slugnplug)
-
